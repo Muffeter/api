@@ -18,5 +18,40 @@
             "photoPath": "https://www.google.com",
             "details": "fresh banana"
         }
-    ]
+    ],
+    "login": {
+        "userid": 1,
+        "username": "admin",
+        "password": "admin",
+        "phone": "1234567890",
+        "email": "111@qq.com",
+        "address": "beijing",
+        "token": "123456"
+    },
+    "register": {
+        "userid": 1,
+        "username": "admin",
+        "password": null,
+        "phone": "1234567890",
+        "email": "111@qq.com",
+        "address": "beijing",
+        "token": "123456"
+    },
+    "orders": {
+        "orderid": 1,
+        "userid": 1,
+        "proid": 1,
+        "count": 1,
+        "totalprice": 100,
+        "status": "pending",
+        "time": "2021-07-01",
+        "uniCount": 1,
+        "address": "beijing"
+    },
+    "Cart": {
+        "cartid": 1,
+        "userid": 1,
+        "proid": 1,
+        "quantity": 1
+    }
 }
