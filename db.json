@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "proid": 1,
+            "proname": "apple",
+            "category": "fruit",
+            "price": 100,
+            "stock": 10,
+            "photoPath": "https://www.google.com",
+            "details": "fresh apple"
+        },
+        {
+            "proid": 2,
+            "proname": "banana",
+            "category": "fruit",
+            "price": 50,
+            "stock": 20,
+            "photoPath": "https://www.google.com",
+            "details": "fresh banana"
+        }
+    ]
+}
